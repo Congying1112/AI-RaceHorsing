@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Decision Tree"
+  },
+  {
+    "name": "Random Forest",
+    "problem_type": ["classification", "regression"]
+  }
+]
